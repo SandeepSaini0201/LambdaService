@@ -1,2 +1,1 @@
-# LambdaService
-Backend service to create lambda functions
+Application to build lambda functions
